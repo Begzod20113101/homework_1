@@ -2,3 +2,159 @@
     background-color: #014E56;
     ;
 }
+.container{
+    align-items: center;
+    height: 2200px;
+    align-items: center;
+  
+}
+.header{
+  
+    align-items: center;
+    
+}
+.text{
+    align-items: center;
+    margin-top: 170px;
+    margin-left: 150px;
+    font-size: 68px;
+}
+.main{
+    width: 500px;
+    color: white;
+    margin-left: 600px;
+    margin-top: -50px;
+}
+.section{
+    display: flex;
+    height: 500px;
+  
+    margin-top: 270px;
+}
+.card4{
+   
+    height: 200px;
+    margin: 20px;
+    justify-content: space-around;
+    display: block;
+    flex-wrap: wrap;
+    width: 200px;
+    background-color: #014E56;
+    margin-left: 150px;
+    
+}
+.section_text{
+    position: absolute;
+
+    color: aliceblue;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+.card1{
+    display: flex;
+    position: absolute;
+    background-color: #014E56;
+   
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 150px;
+}
+.card2{
+    position: absolute;
+    background-color: #014E56;
+  
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 520px;
+}
+.card3{
+    position: absolute;
+    background-color: #014E56;
+   
+    width: 200px;
+    height: 200px;
+    margin-top: 250px;
+    margin-left: 890px;
+}
+.card_img{
+    margin-top: 10px;
+margin-left: 50px;
+}
+.card_img4{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.card_text{
+    font-size: 19px;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.card_text4{
+    display: block;
+    width: 200px;
+    font-size: 18px;
+color: aliceblue;
+margin-top: 120px;
+margin-left: -100px;
+}
+.card_main{
+    color: aliceblue;
+    margin-left: 55px;
+}
+.card_main4{
+    color: aliceblue;
+    margin-top: 160px;
+margin-left: -200px;
+}
+.card_text5{
+    color: #79C8C7;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.card_main_5{
+    color: white;
+    width: 200px;
+    height: 75px;
+}
+.card_text_img{
+margin-left: 50px;
+
+}
+.benner_text{
+    color: aliceblue;
+ text-align: center;
+ margin-top: 150px;
+
+}
+.card_text_main{
+    margin: 20px;
+    margin-left: 60px;
+    margin-top: 50px;
+    
+}
+.logo{
+    justify-content: space-around;
+    display: flex;
+    width: 1320px;
+    border: 1px solid  #F67E7E;;
+  height: 300px;  
+  margin-left: -12px;
+  background: #F67E7E;
+  margin-top: 50px  ;
+}
+.logo_text{
+    margin-top: 100px;
+}
+.logo_button{
+    margin-top: 120px;
+    background-color: #F67E7E;
+    width: 150px;
+    height: 50px;
+    border-radius: 24px;
+}
